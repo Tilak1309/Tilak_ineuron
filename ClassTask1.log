@@ -1,0 +1,14 @@
+INFO 2022-07-09 02:01:51,826 root  This is my log for the ClassTask1 with timestamp
+INFO 2022-07-09 02:01:51,826 root  Invoked the List Extract method for logging
+INFO 2022-07-09 02:01:51,826 root  Accessing the List
+INFO 2022-07-09 02:01:51,826 root  Following list is found
+INFO 2022-07-09 02:01:51,826 root  [23, 456, 67, 8, 78, 78]
+INFO 2022-07-09 02:01:51,826 root  Following list is found
+INFO 2022-07-09 02:01:51,826 root  [345, 56, 87, 8, 98, 9]
+INFO 2022-07-09 02:01:51,826 root  Invoked the itemExtract method for logging
+INFO 2022-07-09 02:01:51,826 root  Key- '600009000' NOT FOUND
+INFO 2022-07-09 02:01:51,826 root  Entered dictionary key extraction method 
+INFO 2022-07-09 02:01:51,826 root  Following is the list of keys in the dictionary- ['a', 'b', 6, 1, 'abc', 'dfg']
+INFO 2022-07-09 02:01:51,826 root  {'a': [1, 2, 3], 'b': 23, 6: 'abc', 'c': {1: [234, 456], 'abc': 12, 'dfg': 123455}}
+INFO 2022-07-09 02:01:51,826 root  Entered dictionary Values extraction method 
+INFO 2022-07-09 02:01:51,826 root  Following is the list of values in the dictionary- [[1, 2, 3], 23, 'abc', 234, 456, 12, 123455]
